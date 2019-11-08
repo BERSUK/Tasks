@@ -1,0 +1,6 @@
+D:\Task3\Task3\bin\Debug\Task3.exe.config
+D:\Task3\Task3\bin\Debug\Task3.exe
+D:\Task3\Task3\bin\Debug\Task3.pdb
+D:\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\Task3\Task3\obj\Debug\Task3.exe
+D:\Task3\Task3\obj\Debug\Task3.pdb
